@@ -1,0 +1,14 @@
+{
+	"name": "tombroucke/otomaties-woocommerce-product-meta",
+	"description": "Add a simple line to product / order item meta",
+	"authors": [
+		{
+			"name": "Tom Broucke",
+			"homepage": "https://tombroucke.be"
+		}
+	],
+	"type": "wordpress-plugin",
+	"require": {
+		"composer/installers": "^1.0"
+	}
+}
